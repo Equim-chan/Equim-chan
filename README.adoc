@@ -11,7 +11,7 @@ image:https://img.shields.io/badge/-AsciiDoc-d22d4a?style=flat-square&logo=ascii
 image:https://img.shields.io/badge/-4777777jHFbZB4gyqrB1JHDtrGFusyj4b3M2nScYDPKEM133ng2QDrK9ycqizXS2XofADw5do5rU19LQmpTGCfeQTerm1Ti-purple?style=flat-square&logo=monero[xmr]
 image:https://img.shields.io/badge/-1Eqqqq9xR78wJyRXXgvR73HEfKdEwq68BT-grey?style=flat-square&logo=bitcoin[btc]
 
-image:https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fequim_chan[twitter]
+https://twitter.com/equim_chan[image:https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fequim_chan[twitter]]
 image:https://img.shields.io/badge/PGP-B9942CBBE0A4CAE13F0473C00534B6F897D268E7-blue?style=flat-square[pgp]
 
 == Misc
