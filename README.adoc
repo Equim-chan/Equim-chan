@@ -17,6 +17,6 @@ image:https://img.shields.io/badge/PGP-B9942CBBE0A4CAE13F0473C00534B6F897D268E7-
 == Misc
 image::https://steamsignature.com/card/0/76561198285816702.png[steam,link=https://steamcommunity.com/id/Equim/]
 
-image::https://anime.plus/Equim-chan/export?settings=eyIwIjoxLCIxIjoiMDBmZmFhYWEiLCIyIjoiMDBlZTY2NzciLCIzIjoiYzBmZmFhYWEiLCI0IjoiYzBlZTY2NzciLCI1IjoiZmZmZmZmZmYiLCI2IjoiMjA0NDIyMzMiLCI3IjoiODVhYTQ0NDQiLCI4IjoiMDBjYzU1NjYiLCI5IjoiMDBjYzU1NjYifQ[MAL,link=https://myanimelist.net/profile/Equim-chan]
+image::https://anime.plus/Equim-chan/export?settings=eyIwIjoxLCIxIjoiMDBmZmFhYWEiLCIyIjoiMDBlZTY2NzciLCIzIjoiYzBmZmFhYWEiLCI0IjoiYzBlZTY2NzciLCI1IjoiZmZmZmZmZmYiLCI2IjoiMjA0NDIyMzMiLCI3IjoiODVhYTQ0NDQiLCI4IjoiMDBjYzU1NjYiLCI5IjoiMDBjYzU1NjYifQ&r=1[MAL,link=https://myanimelist.net/profile/Equim-chan]
 
 image::https://spotify-github-profile.vercel.app/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&cover_image=true[spotify]
