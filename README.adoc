@@ -10,14 +10,14 @@ image:https://img.shields.io/badge/-AsciiDoc-d22d4a?style=flat-square&logo=ascii
 image:https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=arch-linux[arch]
 image:https://img.shields.io/badge/-Tails-56347c?style=flat-square&logo=tails[tails]
 
-image:https://img.shields.io/badge/-4777777jHFbZB4gyqrB1JHDtrGFusyj4b3M2nScYDPKEM133ng2QDrK9ycqizXS2XofADw5do5rU19LQmpTGCfeQTerm1Ti-242021?style=flat-square&logo=monero[XMR,link=https://www.getmonero.org/]
-image:https://img.shields.io/badge/-1Eqqqq9xR78wJyRXXgvR73HEfKdEwq68BT-grey?style=flat-square&logo=bitcoin[BTC]
+image:https://img.shields.io/badge/-4777777jHFbZB4gyqrB1JHDtrGFusyj4b3M2nScYDPKEM133ng2QDrK9ycqizXS2XofADw5do5rU19LQmpTGCfeQTerm1Ti-242021?style=flat-square&logo=monero[XMR,link=monero:4777777jHFbZB4gyqrB1JHDtrGFusyj4b3M2nScYDPKEM133ng2QDrK9ycqizXS2XofADw5do5rU19LQmpTGCfeQTerm1Ti]
+image:https://img.shields.io/badge/-1Eqqqq9xR78wJyRXXgvR73HEfKdEwq68BT-grey?style=flat-square&logo=bitcoin[BTC,link=bitcoin:1Eqqqq9xR78wJyRXXgvR73HEfKdEwq68BT]
 
 image:https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fequim_chan[twitter,link=https://twitter.com/equim_chan]
 image:https://img.shields.io/badge/PGP-B9942CBBE0A4CAE13F0473C00534B6F897D268E7-blue?style=flat-square[pgp,link=https://keybase.io/ekyu/pgp_keys.asc?fingerprint=b9942cbbe0a4cae13f0473c00534b6f897d268e7]
 
 == Misc
-.----------------------
+.-------------------------------------------------------
 [%collapsible]
 ====
 image:https://steamsignature.com/card/0/76561198285816702.png[steam,link=https://steamcommunity.com/id/Equim/]
