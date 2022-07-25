@@ -11,6 +11,8 @@ image:https://img.shields.io/badge/-Go-black?style=flat-square&logo=go[go]
 image:https://img.shields.io/badge/-AsciiDoc-d22d4a?style=flat-square&logo=asciidoctor[adoc]
 image:https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=arch-linux[arch]
 image:https://img.shields.io/badge/-Tails-56347c?style=flat-square&logo=tails[tails]
+image:https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white[pytorch]
+image:https://img.shields.io/badge/-VSC-007acc?style=flat-square&logo=visual-studio-code[vsc]
 
 image:https://img.shields.io/badge/-Monero-242021?style=flat-square&logo=monero[XMR] `4777777jHFbZB4gyqrB1JHDtrGFusyj4b3M2nScYDPKEM133ng2QDrK9ycqizXS2XofADw5do5rU19LQmpTGCfeQTerm1Ti`
 
@@ -25,7 +27,7 @@ image:https://img.shields.io/badge/PGP-B9942CBBE0A4CAE13F0473C00534B6F897D268E7-
 ====
 image:https://steamsignature.com/card/0/76561198285816702.png[steam,link=https://steamcommunity.com/id/Equim/]
 
-image:https://anime.plus/Equim-chan/export?settings=eyIwIjoxLCIxIjoiMDBmZmFhYWEiLCIyIjoiMDBlZTY2NzciLCIzIjoiYzBmZmFhYWEiLCI0IjoiYzBlZTY2NzciLCI1IjoiZmZmZmZmZmYiLCI2IjoiMjA0NDIyMzMiLCI3IjoiODVhYTQ0NDQiLCI4IjoiMDBjYzU1NjYiLCI5IjoiMDBjYzU1NjYifQ&bruh=3[MAL,link=https://myanimelist.net/profile/Equim-chan]
+image:https://anime.plus/Equim-chan/export?settings=eyIwIjoxLCIxIjoiMDBmZmFhYWEiLCIyIjoiMDBlZTY2NzciLCIzIjoiYzBmZmFhYWEiLCI0IjoiYzBlZTY2NzciLCI1IjoiZmZmZmZmZmYiLCI2IjoiMjA0NDIyMzMiLCI3IjoiODVhYTQ0NDQiLCI4IjoiMDBjYzU1NjYiLCI5IjoiMDBjYzU1NjYifQ&bruh=0[MAL,link=https://myanimelist.net/profile/Equim-chan]
 
 image:https://spotify-github-profile.vercel.app/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&cover_image=true[spotify]
 ====
