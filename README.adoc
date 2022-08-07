@@ -1,5 +1,5 @@
 == Overview
-image::https://github-profile-trophy.vercel.app/?username=Equim-chan&theme=nord&row=1[trophy]
+// image::https://github-profile-trophy.vercel.app/?username=Equim-chan&theme=nord&row=1[trophy]
 
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=Equim-chan&layout=compact&hide=html&theme=nord&card_width=445[lang_stats]
 
