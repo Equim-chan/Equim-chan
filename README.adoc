@@ -19,7 +19,7 @@ image:https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter
 image:https://img.shields.io/badge/PGP-B9942CBBE0A4CAE13F0473C00534B6F897D268E7-blue?style=flat-square[pgp,link=https://keybase.io/ekyu/pgp_keys.asc?fingerprint=b9942cbbe0a4cae13f0473c00534b6f897d268e7]
 
 ++++
-<a href="https://www.buymeacoffee.com/equim" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/equim" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
 ++++
 
 == Misc
