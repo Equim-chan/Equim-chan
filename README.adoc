@@ -1,9 +1,8 @@
 == Overview
 // image::https://github-profile-trophy.vercel.app/?username=Equim-chan&theme=nord&row=1[trophy]
+image::https://github-readme-stats-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Equim-chan&layout=compact&hide=html&theme=nord&card_width=445[lang_stats]
 
-image::https://github-readme-stats.vercel.app/api/top-langs/?username=Equim-chan&layout=compact&hide=html&theme=nord&card_width=445[lang_stats]
-
-image::https://github-readme-stats.vercel.app/api?username=Equim-chan&show_icons=true&theme=nord&hide_rank=true[stats]
+image::https://github-readme-stats-masterrstaa-rickstaa.vercel.app/api?username=Equim-chan&show_icons=true&theme=nord&hide_rank=true[stats]
 
 == Badges
 image:https://img.shields.io/badge/-Rust-a72145?style=flat-square&logo=rust[rust]
