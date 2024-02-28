@@ -1,9 +1,9 @@
 == Overview
 // image::https://github-profile-trophy.vercel.app/?username=Equim-chan&theme=nord&row=1[trophy]
 
-image::https://github-readme-stats.vercel.app/api/top-langs/?username=Equim-chan&layout=compact&hide=html&theme=nord&card_width=445[lang_stats]
+image::https://github-readme-stats.vercel.app/api/top-langs/?username=Equim-chan&layout=compact&hide=html&theme=vue-dark&card_width=304[lang_stats]
 
-image::https://github-readme-stats.vercel.app/api?username=Equim-chan&show_icons=true&theme=nord&hide_rank=true[stats]
+image::https://github-readme-stats.vercel.app/api?username=Equim-chan&show_icons=true&theme=vue-dark&hide_rank=true[stats]
 
 == Badges
 === Tech
