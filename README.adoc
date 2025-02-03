@@ -35,5 +35,5 @@ image:https://www.steamidfinder.com/signature/76561198285816702.png[steam,link=h
 
 image:https://anime.plus/Equim-chan/WzEsIjAwNDRmZjQ0IiwiMDAwMDg4MDAiLCIwMDAwNDQwMCIsIjAwMDA4ODAwIiwiMDAwMDAwMDAiLCIyMDQ0ZmY0NCIsIjAwMDA4ODAwIiwiMDAzM2FhMzMiLCIwMDMzYWEzMyJd/1658832676?c[MAL,link=https://myanimelist.net/profile/Equim-chan]
 
-image:https://spotify-github-profile.vercel.app/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false[spotify,link=https://spotify-github-profile.vercel.app/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&redirect=true]
+image:https://spotify-github-profile.kittinanx.com/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false[spotify,link=https://spotify-github-profile.kittinanx.com/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&redirect=true]
 ====
